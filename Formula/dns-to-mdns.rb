@@ -1,8 +1,8 @@
 class DnsToMdns < Formula
   desc "DNS-to-mDNS Proxy - Resolves DNS queries via system mDNS/Bonjour"
   homepage "https://github.com/blackhuman/dns-to-mdns"
-  url "https://github.com/blackhuman/dns-to-mdns/releases/download/v0.1.0/dns-to-mdns-macos.tar.gz"
-  version "0.1.0"
+  url "https://github.com/blackhuman/dns-to-mdns/releases/download/v0.1.1/dns-to-mdns-0.1.1-darwin-universal.tar.gz"
+  version "0.1.1"
   license "MIT"
 
   depends_on macos: :monterey
