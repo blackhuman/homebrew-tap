@@ -13,8 +13,8 @@ class DnsToMdns < Formula
 
   desc "Start a dns server and convert request to mdns dns request"
   homepage "https://github.com/blackhuman/dns-to-mdns"
-  url "https://github.com/blackhuman/dns-to-mdns/releases/download/v0.1.1/dns-to-mdns-0.1.1-darwin-universal.tar.gz"
-  sha256 "f50cd14b2d0854c0267dd5897666309ce63953c175abbf0b0de51bbbe78d4ba4"
+  url "https://github.com/blackhuman/dns-to-mdns/releases/download/v0.1.2/dns-to-mdns-0.1.2-darwin-universal.tar.gz"
+  sha256 "1e06b1b2253083e5436760d24e22becd826e2626181ecc80b5cd387629e28975"
 
   depends_on macos: :monterey
 
